@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WinFormServer/1.0.0": {
+        "dependencies": {
+          "ChatLib": "1.0.0"
+        },
+        "runtime": {
+          "WinFormServer.dll": {}
+        }
+      },
+      "ChatLib/1.0.0": {
+        "runtime": {
+          "ChatLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ChatLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

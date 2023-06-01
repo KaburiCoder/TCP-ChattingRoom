@@ -1,0 +1,12 @@
+C:\Youtube\Tcp\ChatLib\bin\Debug\net7.0\ChatLib.deps.json
+C:\Youtube\Tcp\ChatLib\bin\Debug\net7.0\ChatLib.dll
+C:\Youtube\Tcp\ChatLib\bin\Debug\net7.0\ChatLib.pdb
+C:\Youtube\Tcp\ChatLib\obj\Debug\net7.0\ChatLib.csproj.AssemblyReference.cache
+C:\Youtube\Tcp\ChatLib\obj\Debug\net7.0\ChatLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Youtube\Tcp\ChatLib\obj\Debug\net7.0\ChatLib.AssemblyInfoInputs.cache
+C:\Youtube\Tcp\ChatLib\obj\Debug\net7.0\ChatLib.AssemblyInfo.cs
+C:\Youtube\Tcp\ChatLib\obj\Debug\net7.0\ChatLib.csproj.CoreCompileInputs.cache
+C:\Youtube\Tcp\ChatLib\obj\Debug\net7.0\ChatLib.dll
+C:\Youtube\Tcp\ChatLib\obj\Debug\net7.0\refint\ChatLib.dll
+C:\Youtube\Tcp\ChatLib\obj\Debug\net7.0\ChatLib.pdb
+C:\Youtube\Tcp\ChatLib\obj\Debug\net7.0\ref\ChatLib.dll
